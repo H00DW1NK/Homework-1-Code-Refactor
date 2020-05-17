@@ -4,7 +4,7 @@ First class homework assignment refactoring the given HTML and CSS to consolidat
 Intitials Thoughts:
 My thought process going into this homework is to etch out categorical classes for the function of this site and to add in proper information via comments.
 
-In process obsercations:
+In process observations:
 1. Elongated phrases and words used as classes, need to consolidate.
 2. No need for duplicative instances of id and classes for the same containers, this is fuel for confusion. Must choose path and cut uneeded attributes.
 3. Adding a ';' to the end of CSS blocks STOPS the css from firing. 
