@@ -11,4 +11,5 @@ In process obsercations:
 
 After Action Review:
 By combining the ids that had the same styling paramters I am abke to shorten the CSS list and make it more easily digestible and more easily navigabble should someone need to parse a container out and make changes.
+
 Doing work in waves of combing classes first, then deleting classes and implementing id selectors, then renaming the ids was a better work method then doing one off changes. I must code in waves to boost effeciency.
